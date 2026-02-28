@@ -445,7 +445,7 @@
 
 .services__card button a:hover {
     background: #4837ff;
-   transform: translateY(-15px);
+   transform: translateY(15px);
 }
 
 .services__card:hover {
@@ -593,3 +593,4 @@
         width: 100%;  
     }
 }
+
